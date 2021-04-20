@@ -1,0 +1,15 @@
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\IDAL.dll.config
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\IDAL.dll
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\IDAL.pdb
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\EntityFramework.dll
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\EntityFramework.xml
+D:\Study\Курсач\Код\MusicStore\IDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\Курсач\Код\MusicStore\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+D:\Study\Курсач\Код\MusicStore\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+D:\Study\Курсач\Код\MusicStore\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+D:\Study\Курсач\Код\MusicStore\IDAL\obj\Debug\IDAL.dll
+D:\Study\Курсач\Код\MusicStore\IDAL\obj\Debug\IDAL.pdb
